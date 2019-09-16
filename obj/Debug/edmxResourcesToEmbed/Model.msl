@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbModelStoreContainer" CdmEntityContainer="DbEntities">
+    <EntitySetMapping Name="AssignedBugs_tbl">
+      <EntityTypeMapping TypeName="DbModel.AssignedBugs_tbl">
+        <MappingFragment StoreEntitySet="AssignedBugs_tbl">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="prod_name" ColumnName="prod_name" />
+          <ScalarProperty Name="bug_name" ColumnName="bug_name" />
+          <ScalarProperty Name="bug_desc" ColumnName="bug_desc" />
+          <ScalarProperty Name="syntax" ColumnName="syntax" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="bug_id" ColumnName="bug_id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="fullname" ColumnName="fullname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bugs_tbl">
+      <EntityTypeMapping TypeName="DbModel.Bugs_tbl">
+        <MappingFragment StoreEntitySet="Bugs_tbl">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="prod_name" ColumnName="prod_name" />
+          <ScalarProperty Name="bug_name" ColumnName="bug_name" />
+          <ScalarProperty Name="bug_desc" ColumnName="bug_desc" />
+          <ScalarProperty Name="syntax" ColumnName="syntax" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="date" ColumnName="date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users_tbl">
+      <EntityTypeMapping TypeName="DbModel.Users_tbl">
+        <MappingFragment StoreEntitySet="Users_tbl">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="role" ColumnName="role" />
+          <ScalarProperty Name="fullname" ColumnName="fullname" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

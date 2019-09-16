@@ -1,0 +1,17 @@
+C:\Users\Sarthak\Documents\ase77146774_2\ase77146774_2\bin\Debug\ase77146774_2.exe.config
+C:\Users\Sarthak\Documents\ase77146774_2\bin\Debug\ase77146774_2.exe.config
+C:\Users\Sarthak\Documents\ase77146774_2\bin\Debug\ase77146774_2.exe
+C:\Users\Sarthak\Documents\ase77146774_2\bin\Debug\ase77146774_2.pdb
+C:\Users\Sarthak\Documents\ase77146774_2\bin\Debug\EntityFramework.dll
+C:\Users\Sarthak\Documents\ase77146774_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sarthak\Documents\ase77146774_2\bin\Debug\EntityFramework.xml
+C:\Users\Sarthak\Documents\ase77146774_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.Properties.Resources.resources
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.csproj.GenerateResource.Cache
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.exe
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.pdb
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.DeveloperForm.resources
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.AdminForm.resources
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.LoginForm.resources
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.TesterForm.resources
+C:\Users\Sarthak\Documents\ase77146774_2\obj\Debug\ase77146774_2.csprojResolveAssemblyReference.cache
